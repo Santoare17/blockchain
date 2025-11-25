@@ -2,3 +2,4 @@
 btc
 eth
 sol
+bnb
